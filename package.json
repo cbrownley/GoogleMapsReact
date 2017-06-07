@@ -1,0 +1,24 @@
+{
+  "name": "googlemapsreact",
+  "version": "1.0.0",
+  "description": "https://www.fullstackreact.com/articles/how-to-write-a-google-maps-react-component/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cbrownley/GoogleMapsReact.git"
+  },
+  "keywords": [
+    "google",
+    "maps",
+    "react"
+  ],
+  "author": "Clinton Brownley",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cbrownley/GoogleMapsReact/issues"
+  },
+  "homepage": "https://github.com/cbrownley/GoogleMapsReact#readme"
+}
